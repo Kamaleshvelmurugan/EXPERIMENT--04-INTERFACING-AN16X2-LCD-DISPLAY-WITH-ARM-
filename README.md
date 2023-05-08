@@ -228,6 +228,7 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus:
+![Screenshot (10)](https://user-images.githubusercontent.com/119477328/236777001-b9ca5ef4-868b-4dba-bc03-0b310ad35e73.png)
 
 
 
